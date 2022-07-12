@@ -63,6 +63,7 @@ img{
     display: flex;
     margin: 20px;
     box-shadow: 5px 5px 20px;
+    border-radius: 10px;
     
 }
 .zakat{
@@ -83,4 +84,29 @@ img{
 }
 .all{
     margin-bottom: 100px;
+}
+.three_picture{
+    box-shadow: 5px 5px 20px;
+    width:400px;
+    margin-left: 3%;
+    border-radius: 10px;
+    
+}
+.sobir_baire{
+    margin-left: 20px;
+   
+}
+.hhh{
+    text-decoration: underline;
+    color: red;
+}
+.last{
+    display: flex;
+    margin-bottom: 100px;
+}
+footer{
+    background-color: black;
+    color: orange;
+    text-align: center;
+    padding: 20px;
 }
