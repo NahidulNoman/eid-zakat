@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.header{
+     background-image: url(images/cow1.jpg);
+     width:100%;
+     height:100vh;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     margin-bottom: 100px;
+}
+.in_header{
+    padding-top: 250px;
+    margin-left: 150px;
+}
+h1{
+    font-size: 30px;
+}
+span{
+    color: rgb(103, 170, 170);
+}
+p{
+    color: rgb(155, 105, 189);
+}
+a{
+    text-decoration: none;
+    padding:10px 20px;
+    background-color: #75b1d8;
+    color:white;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+.second-header{
+    display: flex;
+    margin:5%;
+    margin-bottom: 100px;
+}
+img{
+    width:60%;
+    margin-left: 15%;
+    
+}
+.second_head{
+    width:80%;
+    margin:5%
+}
+.rd_header{
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.help_center{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    margin: 20px;
+    box-shadow: 5px 5px 20px;
+    
+}
+.zakat{
+    width:100px;
+    height: 100px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.now{
+    float: right;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.two{
+    display: flex;
+    margin-left: 10%;
+}
+.all{
+    margin-bottom: 100px;
+}
